@@ -46,6 +46,7 @@ namespace HangManForm
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {
+
             Move = 1;
             Mouse_X = e.X;
             Mouse_Y = e.Y;
