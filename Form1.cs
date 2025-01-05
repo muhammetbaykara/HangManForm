@@ -26,7 +26,6 @@ namespace HangManForm
         private void panel1_(object sender, MouseEventArgs e)
         {
         }
-
         int Move;
         int Mouse_X;
         int Mouse_Y;
